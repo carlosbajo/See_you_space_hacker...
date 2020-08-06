@@ -28,3 +28,8 @@ set number
 # For language server use coc.nvim
 # You guys are so bad with the other people
 # as far I know is the best language server for nvim. :3
+
+# Install nerdtree for see the tree
+
+# To show hidden files or dot files in NERDTree use the next command ->
+let NERDTreeShowHidden=1
